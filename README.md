@@ -111,6 +111,7 @@ The structure of the CSV file is as follow:
 - Body temperature  
 - Baseline ECG-based heart rate  
 
+# Usage  
 If you used this data repository in your research please reference the data source by citing the following paper:  
 - Arman Anzanpour, Delaram Amiri, Iman Azimi, Marco Levorato, Nikil Dutt, Pasi Liljeberg, and Amir M. Rahmani. 2020. Edge-Assisted Control for Healthcare Internet of Things: A Case Study on PPG-Based Early Warning Score. ACM Trans. Internet Things 2, 1, Article 1 (October 2020), 21 pages. DOI:https://doi.org/10.1145/3407091  
   
