@@ -1,6 +1,6 @@
 # The repository of data collected during the IoCT-Care project  
   
-This repository is the public description of the data collected for evaluation and experiments during the research on the IoCT-CARE project, a joint project between the Academy of Finland and the National Science Foundation (NSF) of the United States.  
+This repository is the public description of the data collected for evaluation and experiments during the research on the IoCT-CARE project, a joint project between the Academy of Finland and the National Science Foundation (NSF) of the United States. The data files are available in University of Turku projects repository (https://gitlab.utu.fi/) and can be accessed upon request.
   
 ## Shimmer data  
 The data is collected with a Shimmer ExG device. The ExG module provides a configurable digital front-end, optimized for the measurement of physiological signals for example 5-lead ECG (Electrocardiography) or 2-channel EMG (Electromyography).  
@@ -110,3 +110,30 @@ The structure of the CSV file is as follow:
 - Acceleration Z  
 - Body temperature  
 - Baseline ECG-based heart rate  
+
+If you used this data repository in your research please reference the data source by citing the following paper:  
+- Arman Anzanpour, Delaram Amiri, Iman Azimi, Marco Levorato, Nikil Dutt, Pasi Liljeberg, and Amir M. Rahmani. 2020. Edge-Assisted Control for Healthcare Internet of Things: A Case Study on PPG-Based Early Warning Score. ACM Trans. Internet Things 2, 1, Article 1 (October 2020), 21 pages. DOI:https://doi.org/10.1145/3407091  
+  
+```
+
+@article{10.1145/3407091,  
+author = {Anzanpour, Arman and Amiri, Delaram and Azimi, Iman and Levorato, Marco and Dutt, Nikil and Liljeberg, Pasi and Rahmani, Amir M.},  
+title = {Edge-Assisted Control for Healthcare Internet of Things: A Case Study on PPG-Based Early Warning Score},  
+year = {2020},  
+issue_date = {October 2020},  
+publisher = {Association for Computing Machinery},  
+address = {New York, NY, USA},  
+volume = {2},  
+number = {1},  
+issn = {2691-1914},  
+url = {https://doi.org/10.1145/3407091},  
+doi = {10.1145/3407091},  
+journal = {ACM Trans. Internet Things},  
+month = oct,  
+articleno = {1},  
+numpages = {21},  
+keywords = {Internet of Things, edge computing, Health monitoring, wearable electronics, early warning score, edge-assisted control}  
+}  
+ 
+```
+
